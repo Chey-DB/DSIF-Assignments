@@ -1,0 +1,35 @@
+2024-10-20 12:43:11,922 - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2024-10-20 12:43:38,088 - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2024-10-20 12:44:38,469 - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2024-10-20 12:46:19,190 - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2024-10-20 12:47:46,300 - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2024-10-20 12:51:15,655 - INFO - Input validation passed for file: to_score_2024_06_13_12_15_28.csv
+2024-10-20 12:51:52,042 - INFO - Input validation passed for file: to_score_2024_06_13_12_15_28.csv
+2024-10-20 12:56:21,157 - INFO - Input validation passed for file: to_score_2024_06_13_12_15_28.csv
+2024-10-20 13:01:12,146 - INFO - Input validation passed for file: to_score_2024_06_13_12_15_29.csv
+2024-10-20 13:01:40,698 - INFO - Input validation passed for file: to_score_2024_06_13_12_15_29.csv
+2024-10-20 13:08:58,737 - INFO - Input validation passed for file: to_score_2024_06_13_12_15_30.csv
+2024-10-20 17:24:40,547 - INFO - Input validation passed for file: to_score_2024_06_13_12_15_31.csv
+2024-10-20 17:25:19,512 - INFO - Input validation passed for file: to_score_2024_06_13_12_15_31.csv
+2024-10-20 17:25:39,678 - INFO - Input validation passed for file: to_score_2024_06_13_12_15_31.csv
+2024-10-20 17:31:46,111 - INFO - Input validation passed for file: to_score_2024_06_13_12_15_31.csv
